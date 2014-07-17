@@ -1,22 +1,4 @@
-# CoffeeScript Style Guide
-
-This guide presents a collection of best-practices and coding conventions for the [CoffeeScript][coffeescript] programming language.
-
-This guide is intended to be community-driven, and contributions are highly encouraged.
-
-Please note that this is a work-in-progress: there is much more that can be specified, and some of the guidelines that have been specified may not be deemed to be idiomatic by the community (in which case, these offending guidelines will be modified or removed, as appropriate).
-
-## Inspiration
-
-The details in this guide have been very heavily inspired by several existing style guides and other resources. In particular:
-
-- [PEP-8][pep8]: Style Guide for Python Code
-- Bozhidar Batsov's [Ruby Style Guide][ruby-style-guide]
-- [Google's JavaScript Style Guide][google-js-styleguide]
-- [Common CoffeeScript Idioms][common-coffeescript-idioms]
-- Thomas Reynolds' [CoffeeScript-specific Style Guide][coffeescript-specific-style-guide]
-- Jeremy Ashkenas' [code review][spine-js-code-review] of [Spine][spine-js]
-- The [CoffeeScript FAQ][coffeescript-faq]
+# CoffeeScript Style Guide in Pigs team
 
 ## Table of Contents
 
@@ -492,3 +474,13 @@ console.log args... # Yes
 [coffeescript-specific-style-guide]: http://awardwinningfjords.com/2011/05/13/coffeescript-specific-style-guide.html
 [coffeescript-faq]: https://github.com/jashkenas/coffee-script/wiki/FAQ
 [camel-case-variations]: http://en.wikipedia.org/wiki/CamelCase#Variations_and_synonyms
+
+
+## Inspiration from
+- [PEP-8][pep8]: Style Guide for Python Code
+- Bozhidar Batsov's [Ruby Style Guide][ruby-style-guide]
+- [Google's JavaScript Style Guide][google-js-styleguide]
+- [Common CoffeeScript Idioms][common-coffeescript-idioms]
+- Thomas Reynolds' [CoffeeScript-specific Style Guide][coffeescript-specific-style-guide]
+- Jeremy Ashkenas' [code review][spine-js-code-review] of [Spine][spine-js]
+- The [CoffeeScript FAQ][coffeescript-faq]
